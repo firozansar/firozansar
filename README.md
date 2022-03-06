@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Firoz Ansari</h1>
 <h3 align="center">Senior Software Engineer at comparethemarket.com</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.firozansari.info/](https://www.firozansari.info/)
+- 📄 Know about my experiences at [Linkedin](https://www.linkedin.com/in/firozansar/)
+
+- 👨‍💻 All of my projects are available at [Github](https://github.com/firozansar/)
 
 - 👀 Interested in contributing to the open source projects related to Android or iOS.
 
@@ -12,7 +14,7 @@
 
 - 📫 How to reach me **firozansar@gmail.com**
 
-- 📄 Know about my experiences [inkedin.com/in/firozansar/](https://www.linkedin.com/in/firozansar/)
+- 🔗 Visit my [personal website](https://www.firozansari.info/) for more information.
 
 - ⚡ Fun fact **I can speak 4 languages fluently**
 
