@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Mobile development**
 
-- 📫 How to reach me **firozansar@gmail.com**
+- 📫 My email address **firozansar@gmail.com**
 
 - 🔗 Visit my [personal website](https://www.firozansari.info/) for more information.
 
