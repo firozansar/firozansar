@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@firozansar](https://medium.com/@firozansar)
 
-- 💬 Follow me on [Facebook](https://www.facebook.com/firoz.ansari1) where I'm a modertor/ mentor in [INDIANS IN UK](https://www.facebook.com/groups/indiansingreatermanchester)
+- 💬 Follow me on [Facebook](https://www.facebook.com/firoz.ansari1) where I'm a modertor/ mentor in [INDIANS IN UK](https://www.facebook.com/groups/indiansingreatermanchester) group (10K+ member)
 
 - 🔗 Visit my [personal website](https://www.firozansari.info/) for more information.
 
