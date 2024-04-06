@@ -6,15 +6,15 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/firozansar/)
 
-- 👀 Interested in contributing to the open source projects related to Android or iOS.
+- 👀 Interested in contributing to the open source projects related to Android, iOS or cross-platform.
 
-- 📝 I regularly write articles on [https://medium.com/@firozansar](https://medium.com/@firozansar)
+- 📝 I am planning to write regularly articles on [https://medium.com/@firozansar](https://medium.com/@firozansar)
 
 - 💬 Follow me on [Facebook](https://www.facebook.com/firoz.ansari1) where I'm a modertor/ mentor in [INDIANS IN UK](https://www.facebook.com/groups/indiansingreatermanchester) group (10K+ member)
 
 - 🔗 Visit my [personal website](https://www.firozansari.info/) for more information.
 
-- ⚡ Fun fact **I can speak 4 languages fluently**
+- ⚡ Fun fact **I love learning languages! I can speak 4 languages fluently and learning more languages**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
