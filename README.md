@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Firoz Ansari</h1>
-<h3 align="center">Senior Software Engineer at comparethemarket.com</h3>
+<h3 align="center">Senior Software Engineer</h3>
 
 - 📄 Know about my experiences at [Linkedin](https://www.linkedin.com/in/firozansar/)
 
