@@ -8,7 +8,7 @@
 
 - 👀 Interested in contributing to the open source projects related to Android, iOS or cross-platform.
 
-- 📝 I am planning to write regularly articles on [https://medium.com/@firozansar](https://medium.com/@firozansar)
+- 📝 I am planning to write technical articles regularly on [https://medium.com/@firozansar](https://medium.com/@firozansar)
 
 - 💬 Follow me on [Facebook](https://www.facebook.com/firoz.ansari1) where I'm a modertor/ mentor in [INDIANS IN UK](https://www.facebook.com/groups/indiansingreatermanchester) group (10K+ member)
 
